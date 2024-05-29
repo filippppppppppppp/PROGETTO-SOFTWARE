@@ -60,6 +60,8 @@ body {
   text-align: center;
   div{
     margin-top: 20px;
+    padding: 2px;
+    padding-top: 5px;
     img{
       width: 80%;
     }
